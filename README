@@ -1,0 +1,3 @@
+This Repository contains modules that can be used by HistomicsTK.
+The docker images generated from these modules are available at
+https://hub.docker.com/r/salamb/histomicstk/. 
